@@ -1,0 +1,84 @@
+#brand{
+  padding-left: 45px;
+}
+
+body{
+  font-family: 'Merriweather', serif;
+  background-color:#fff;
+}
+.navbar-light .navbar-nav .nav-link {
+  color:black;
+}
+h5{
+  color:red;
+}
+
+.btn-warning:hover{
+  background-color:red;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+      color: red;
+}
+.boxy{
+  border: 2px solid red;
+  padding: 0px;
+  margin: 0px;
+  border-radius: 10px;
+}
+.main {
+  height:inherit;
+  width: auto;
+  padding:200px, 200px;
+  margin: 1px auto;
+  border-top:3px solid red;
+  border-bottom:3px solid red;
+  border-left:3px solid red;
+  border-right:3px solid red;
+  border-radius: 10px;
+  text-align: center;
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+.jumbotron .container a{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+.jumbotron .container .display-6 a:hover{
+  color: red;
+}
+
+
+.jumbotron .container h4 a:hover{
+  color: #00acee;
+}
+.jumbotron .container h4 span a:hover{
+  color: #3b5998;
+}
+span img{
+  color:black;
+  float: right;
+}
+
+.jumbotron .container .hep a:hover{
+  color:red;
+}
+.footer{
+  padding-top: 10px;
+  text-align: center;
+}
+.footer_2{
+  background-color: #fff;
+}
+.modal-title{
+  color:black;
+  text-align: center;
+}
+
+.one{
+  border-right: 2px solid red;
+}
+.two{
+  border-right: 2px solid red;
+}
